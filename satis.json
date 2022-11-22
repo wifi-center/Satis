@@ -1,0 +1,9 @@
+{
+  "name": "wifi-center/satis",
+  "homepage": "https://wifi-center.github.io/satis/",
+  "output-dir": "docs",
+  "repositories": [
+
+  ],
+  "require-all": true
+}
