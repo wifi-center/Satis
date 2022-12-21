@@ -3,7 +3,10 @@
   "homepage": "https://wifi-center.github.io/satis/",
   "output-dir": "docs",
   "repositories": [
-
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/magmodules-magento2-channable"
+    }
   ],
   "require-all": true
 }
