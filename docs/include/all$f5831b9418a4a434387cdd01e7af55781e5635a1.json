@@ -1,0 +1,121 @@
+{
+    "packages": {
+        "solvatech/magmodules-magento2-channable": {
+            "1.14.0.1": {
+                "name": "solvatech/magmodules-magento2-channable",
+                "version": "1.14.0.1",
+                "version_normalized": "1.14.0.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wifi-center/magmodules-magento2-channable.git",
+                    "reference": "2c248f68e7e243389921fcc153a5c22b2a2b3017"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/magmodules-magento2-channable/zipball/2c248f68e7e243389921fcc153a5c22b2a2b3017",
+                    "reference": "2c248f68e7e243389921fcc153a5c22b2a2b3017",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "magento/framework": ">=102.0.3"
+                },
+                "time": "2022-12-21T10:51:20+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magmodules\\Channable\\": ""
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "description": "Channable integration for Magento 2",
+                "homepage": "https://github.com/magmodules/magento2-channable",
+                "support": {
+                    "source": "https://github.com/wifi-center/magmodules-magento2-channable/tree/1.14.0.1"
+                }
+            },
+            "dev-feature/copy-overrides": {
+                "name": "solvatech/magmodules-magento2-channable",
+                "version": "dev-feature/copy-overrides",
+                "version_normalized": "dev-feature/copy-overrides",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wifi-center/magmodules-magento2-channable.git",
+                    "reference": "3ce8a720e54aa485f47ca13165a39e6ca2b91866"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/magmodules-magento2-channable/zipball/3ce8a720e54aa485f47ca13165a39e6ca2b91866",
+                    "reference": "3ce8a720e54aa485f47ca13165a39e6ca2b91866",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "magento/framework": ">=102.0.3"
+                },
+                "time": "2022-12-21T10:46:02+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magmodules\\Channable\\": ""
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "description": "Channable integration for Magento 2",
+                "homepage": "https://github.com/magmodules/magento2-channable",
+                "support": {
+                    "source": "https://github.com/wifi-center/magmodules-magento2-channable/tree/feature/copy-overrides"
+                }
+            },
+            "dev-master": {
+                "name": "solvatech/magmodules-magento2-channable",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wifi-center/magmodules-magento2-channable.git",
+                    "reference": "2c248f68e7e243389921fcc153a5c22b2a2b3017"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/magmodules-magento2-channable/zipball/2c248f68e7e243389921fcc153a5c22b2a2b3017",
+                    "reference": "2c248f68e7e243389921fcc153a5c22b2a2b3017",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "magento/framework": ">=102.0.3"
+                },
+                "time": "2022-12-21T10:51:20+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magmodules\\Channable\\": ""
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "description": "Channable integration for Magento 2",
+                "homepage": "https://github.com/magmodules/magento2-channable",
+                "support": {
+                    "source": "https://github.com/wifi-center/magmodules-magento2-channable/tree/1.14.0.1"
+                }
+            }
+        }
+    }
+}
