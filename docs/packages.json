@@ -1,12 +1,12 @@
 {
     "packages": [],
     "includes": {
-        "include/all$f5831b9418a4a434387cdd01e7af55781e5635a1.json": {
-            "sha1": "f5831b9418a4a434387cdd01e7af55781e5635a1"
+        "include/all$94034598b87a0e21382f682f6cbc096758bba733.json": {
+            "sha1": "94034598b87a0e21382f682f6cbc096758bba733"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
     "available-packages": [
-        "solvatech/magmodules-magento2-channable"
+        "magmodules/magento2-channable"
     ]
 }
