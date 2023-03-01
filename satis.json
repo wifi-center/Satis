@@ -5,6 +5,54 @@
   "repositories": [
     {
       "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_EmailBuilder"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_Builder"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_TabsPro"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_ProductPageBuilder"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_ProductAttachmentsGraphQl"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_ProductAttachments"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_Pdf"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_LazyLoad"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_SimpleBuilder"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_EmailAttachments"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_Core"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_AdminSearch"
+    },
+    {
+      "type": "vcs",
       "url": "https://github.com/wifi-center/magmodules-magento2-channable"
     }
   ],
