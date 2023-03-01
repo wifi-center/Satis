@@ -5,7 +5,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/wifi-center/Magezon_EmailBuilder"
+      "url": "https://github.com/wifi-center/Magezon_AdminSearch"
     },
     {
       "type": "vcs",
@@ -13,31 +13,7 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/wifi-center/Magezon_TabsPro"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/wifi-center/Magezon_ProductPageBuilder"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/wifi-center/Magezon_ProductAttachmentsGraphQl"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/wifi-center/Magezon_ProductAttachments"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/wifi-center/Magezon_Pdf"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/wifi-center/Magezon_LazyLoad"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/wifi-center/Magezon_SimpleBuilder"
+      "url": "https://github.com/wifi-center/Magezon_Core"
     },
     {
       "type": "vcs",
@@ -45,11 +21,59 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/wifi-center/Magezon_Core"
+      "url": "https://github.com/wifi-center/Magezon_EmailBuilder"
     },
     {
       "type": "vcs",
-      "url": "https://github.com/wifi-center/Magezon_AdminSearch"
+      "url": "https://github.com/wifi-center/Magezon_LazyLoad"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_Newsletter"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_Pdf"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_PageBuilder"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_PageBuilderIconBox"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_PageBuilderPageableContainer"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_PageBuilderPreview"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_ProductAttachments"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_ProductAttachmentsGraphQl"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_ProductPageBuilder"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_ProductPageBuilderAttachments"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_SimpleBuilder"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_TabsPro"
     },
     {
       "type": "vcs",

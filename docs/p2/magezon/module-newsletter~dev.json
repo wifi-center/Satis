@@ -1,0 +1,81 @@
+{
+    "packages": {
+        "magezon/module-newsletter": [
+            {
+                "name": "magezon/module-newsletter",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_Newsletter.git",
+                    "reference": "feebd205a58005ca9bd9705f057b479228e15c1d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_Newsletter/zipball/feebd205a58005ca9bd9705f057b479228e15c1d",
+                    "reference": "feebd205a58005ca9bd9705f057b479228e15c1d",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~7.1.0|~7.2.0|~7.3.0"
+                },
+                "time": "2023-03-01T11:42:11+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\Newsletter\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_Newsletter/tree/1.0.0",
+                    "issues": "https://github.com/wifi-center/Magezon_Newsletter/issues"
+                }
+            },
+            {
+                "name": "magezon/module-newsletter",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_Newsletter.git",
+                    "reference": "feebd205a58005ca9bd9705f057b479228e15c1d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_Newsletter/zipball/feebd205a58005ca9bd9705f057b479228e15c1d",
+                    "reference": "feebd205a58005ca9bd9705f057b479228e15c1d",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~7.1.0|~7.2.0|~7.3.0"
+                },
+                "time": "2023-03-01T11:42:11+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\Newsletter\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_Newsletter/tree/1.0.0",
+                    "issues": "https://github.com/wifi-center/Magezon_Newsletter/issues"
+                }
+            }
+        ]
+    }
+}

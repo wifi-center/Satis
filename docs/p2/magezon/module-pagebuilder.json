@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "magezon/module-pagebuilder": [
+            {
+                "name": "magezon/module-pagebuilder",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_PageBuilder.git",
+                    "reference": "9259b15dd1c7d990ae4eab69bb962e41c5547892"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_PageBuilder/zipball/9259b15dd1c7d990ae4eab69bb962e41c5547892",
+                    "reference": "9259b15dd1c7d990ae4eab69bb962e41c5547892",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-builder": "*",
+                    "magezon/module-core": "*",
+                    "magezon/module-newsletter": "*",
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                },
+                "time": "2023-03-01T11:44:30+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\PageBuilder\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 Page Builder: Page Builder, Landing Page Builder, Home Page, Static Block, Product Description",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_PageBuilder/tree/1.0.0",
+                    "issues": "https://github.com/wifi-center/Magezon_PageBuilder/issues"
+                }
+            }
+        ]
+    }
+}

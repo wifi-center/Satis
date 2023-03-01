@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "magezon/module-singple-product-page-builder-attachments": [
+            {
+                "name": "magezon/module-singple-product-page-builder-attachments",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_ProductPageBuilderAttachments.git",
+                    "reference": "5da027ae6b806695f348e7c18d96c355e3e79528"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_ProductPageBuilderAttachments/zipball/5da027ae6b806695f348e7c18d96c355e3e79528",
+                    "reference": "5da027ae6b806695f348e7c18d96c355e3e79528",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-builder": "*",
+                    "magezon/module-core": "*",
+                    "magezon/module-singple-product-page-builder": "*",
+                    "php": "~7.3.0|~7.4.0|~8.1.0"
+                },
+                "time": "2023-03-01T11:59:15+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\ProductPageBuilderAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Customize layout of any product page with simple drag and drop.",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_ProductPageBuilderAttachments/tree/1.0.4",
+                    "issues": "https://github.com/wifi-center/Magezon_ProductPageBuilderAttachments/issues"
+                }
+            }
+        ]
+    }
+}

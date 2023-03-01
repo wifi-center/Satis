@@ -1,0 +1,89 @@
+{
+    "packages": {
+        "magezon/module-pagebuilder-pageable-container": [
+            {
+                "name": "magezon/module-pagebuilder-pageable-container",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_PageBuilderPageableContainer.git",
+                    "reference": "de3ffc832f0344627aa7b3ee3dd7b6068b097cc5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_PageBuilderPageableContainer/zipball/de3ffc832f0344627aa7b3ee3dd7b6068b097cc5",
+                    "reference": "de3ffc832f0344627aa7b3ee3dd7b6068b097cc5",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-builder": "*",
+                    "magezon/module-core": "*",
+                    "magezon/module-pagebuilder": "*",
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                },
+                "time": "2023-03-01T11:52:38+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\PageBuilderPageableContainer\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 Page Builder: Page Builder, Landing Page Builder, Home Page, Static Block, Product Description",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_PageBuilderPageableContainer/tree/develop",
+                    "issues": "https://github.com/wifi-center/Magezon_PageBuilderPageableContainer/issues"
+                }
+            },
+            {
+                "name": "magezon/module-pagebuilder-pageable-container",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_PageBuilderPageableContainer.git",
+                    "reference": "77cea1adfac26bc6222fb1338781421d1b89678e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_PageBuilderPageableContainer/zipball/77cea1adfac26bc6222fb1338781421d1b89678e",
+                    "reference": "77cea1adfac26bc6222fb1338781421d1b89678e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-builder": "*",
+                    "magezon/module-core": "*",
+                    "magezon/module-pagebuilder": "*",
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                },
+                "time": "2023-03-01T11:52:47+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\PageBuilderPageableContainer\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 Page Builder: Page Builder, Landing Page Builder, Home Page, Static Block, Product Description",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_PageBuilderPageableContainer/tree/1.0.0",
+                    "issues": "https://github.com/wifi-center/Magezon_PageBuilderPageableContainer/issues"
+                }
+            }
+        ]
+    }
+}
