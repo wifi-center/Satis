@@ -9,6 +9,10 @@
     },
     {
       "type": "vcs",
+      "url": "https://github.com/wifi-center/Magezon_AdvancedContact"
+    },
+    {
+      "type": "vcs",
       "url": "https://github.com/wifi-center/Magezon_Builder"
     },
     {

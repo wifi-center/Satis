@@ -1,13 +1,14 @@
 {
     "packages": [],
     "includes": {
-        "include/all$a918dab92b04ec5da10edb3dbcbdec31eb6be2ad.json": {
-            "sha1": "a918dab92b04ec5da10edb3dbcbdec31eb6be2ad"
+        "include/all$9dc24dfb0977fc3399c3c18f8e03c78dbb846fbc.json": {
+            "sha1": "9dc24dfb0977fc3399c3c18f8e03c78dbb846fbc"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
     "available-packages": [
         "magezon/module-adminsearch",
+        "magezon/module-advanced-contact",
         "magezon/module-builder",
         "magezon/module-core",
         "magezon/module-email-attachments",
