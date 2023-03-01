@@ -235,6 +235,44 @@
             }
         },
         "magezon/module-builder": {
+            "1.2.5": {
+                "name": "magezon/module-builder",
+                "version": "1.2.5",
+                "version_normalized": "1.2.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_Builder.git",
+                    "reference": "d1ee19b1ae3c6fd3ba608ab225db846131d2b078"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_Builder/zipball/d1ee19b1ae3c6fd3ba608ab225db846131d2b078",
+                    "reference": "d1ee19b1ae3c6fd3ba608ab225db846131d2b078",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0||~8.1.0"
+                },
+                "time": "2023-03-01T11:23:17+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\Builder\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_Builder/tree/1.2.5",
+                    "issues": "https://github.com/wifi-center/Magezon_Builder/issues"
+                }
+            },
             "dev-develop": {
                 "name": "magezon/module-builder",
                 "version": "dev-develop",
@@ -308,7 +346,7 @@
                 ],
                 "description": "N/A",
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_Builder/tree/main",
+                    "source": "https://github.com/wifi-center/Magezon_Builder/tree/1.2.5",
                     "issues": "https://github.com/wifi-center/Magezon_Builder/issues"
                 }
             }
