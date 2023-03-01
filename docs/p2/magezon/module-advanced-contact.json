@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_AdvancedContact.git",
-                    "reference": "9887fca49160f485da26cc7ac0a41c3577870615"
+                    "reference": "cbc9e581f394a5a3a20e2f3032d22e470c7d56c8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdvancedContact/zipball/9887fca49160f485da26cc7ac0a41c3577870615",
-                    "reference": "9887fca49160f485da26cc7ac0a41c3577870615",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdvancedContact/zipball/cbc9e581f394a5a3a20e2f3032d22e470c7d56c8",
+                    "reference": "cbc9e581f394a5a3a20e2f3032d22e470c7d56c8",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0"
                 },
-                "time": "2023-03-01T12:17:57+00:00",
+                "time": "2023-03-01T12:47:50+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [

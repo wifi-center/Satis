@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_TabsPro.git",
-                    "reference": "92b7ca155baade0e679e4ea7e13d9d284cf6b21e"
+                    "reference": "cfd0095e24494cad48af70aa61eaaba172edbfaf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_TabsPro/zipball/92b7ca155baade0e679e4ea7e13d9d284cf6b21e",
-                    "reference": "92b7ca155baade0e679e4ea7e13d9d284cf6b21e",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_TabsPro/zipball/cfd0095e24494cad48af70aa61eaaba172edbfaf",
+                    "reference": "cfd0095e24494cad48af70aa61eaaba172edbfaf",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.0.0|~7.1.0|~7.2.0"
+                    "php": "~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0"
                 },
-                "time": "2023-03-01T10:02:52+00:00",
+                "time": "2023-03-01T12:56:53+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [

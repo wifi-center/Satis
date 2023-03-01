@@ -8,19 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_AdminSearch.git",
-                    "reference": "28fd9480d5ec4f22a5c282335118d07e2419d4fe"
+                    "reference": "36e64fdb84dc9a5b45905e8d31246ccf54a897f9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdminSearch/zipball/28fd9480d5ec4f22a5c282335118d07e2419d4fe",
-                    "reference": "28fd9480d5ec4f22a5c282335118d07e2419d4fe",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdminSearch/zipball/36e64fdb84dc9a5b45905e8d31246ccf54a897f9",
+                    "reference": "36e64fdb84dc9a5b45905e8d31246ccf54a897f9",
                     "shasum": ""
                 },
                 "require": {
                     "magezon/module-core": "*",
-                    "php": "~7.1.0|~7.2.0|~7.3.0"
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
                 },
-                "time": "2023-03-01T09:23:03+00:00",
+                "time": "2023-03-01T12:45:49+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -46,19 +46,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_AdminSearch.git",
-                    "reference": "28fd9480d5ec4f22a5c282335118d07e2419d4fe"
+                    "reference": "3c36af573199a98e45c9699d7476ae8a90cd1725"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdminSearch/zipball/28fd9480d5ec4f22a5c282335118d07e2419d4fe",
-                    "reference": "28fd9480d5ec4f22a5c282335118d07e2419d4fe",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdminSearch/zipball/3c36af573199a98e45c9699d7476ae8a90cd1725",
+                    "reference": "3c36af573199a98e45c9699d7476ae8a90cd1725",
                     "shasum": ""
                 },
                 "require": {
                     "magezon/module-core": "*",
-                    "php": "~7.1.0|~7.2.0|~7.3.0"
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
                 },
-                "time": "2023-03-01T09:23:03+00:00",
+                "time": "2023-03-01T12:45:09+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -74,7 +74,7 @@
                     "AFL-3.0"
                 ],
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_AdminSearch/tree/1.0.0",
+                    "source": "https://github.com/wifi-center/Magezon_AdminSearch/tree/develop",
                     "issues": "https://github.com/wifi-center/Magezon_AdminSearch/issues"
                 }
             },
@@ -85,19 +85,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_AdminSearch.git",
-                    "reference": "28fd9480d5ec4f22a5c282335118d07e2419d4fe"
+                    "reference": "36e64fdb84dc9a5b45905e8d31246ccf54a897f9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdminSearch/zipball/28fd9480d5ec4f22a5c282335118d07e2419d4fe",
-                    "reference": "28fd9480d5ec4f22a5c282335118d07e2419d4fe",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdminSearch/zipball/36e64fdb84dc9a5b45905e8d31246ccf54a897f9",
+                    "reference": "36e64fdb84dc9a5b45905e8d31246ccf54a897f9",
                     "shasum": ""
                 },
                 "require": {
                     "magezon/module-core": "*",
-                    "php": "~7.1.0|~7.2.0|~7.3.0"
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
                 },
-                "time": "2023-03-01T09:23:03+00:00",
+                "time": "2023-03-01T12:45:49+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -125,18 +125,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_AdvancedContact.git",
-                    "reference": "9887fca49160f485da26cc7ac0a41c3577870615"
+                    "reference": "cbc9e581f394a5a3a20e2f3032d22e470c7d56c8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdvancedContact/zipball/9887fca49160f485da26cc7ac0a41c3577870615",
-                    "reference": "9887fca49160f485da26cc7ac0a41c3577870615",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdvancedContact/zipball/cbc9e581f394a5a3a20e2f3032d22e470c7d56c8",
+                    "reference": "cbc9e581f394a5a3a20e2f3032d22e470c7d56c8",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0"
                 },
-                "time": "2023-03-01T12:17:57+00:00",
+                "time": "2023-03-01T12:47:50+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -163,18 +163,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_AdvancedContact.git",
-                    "reference": "c56b7edb027f1feb1ed95eb6b332ed0a9bc9452c"
+                    "reference": "bbc453a2ccb1fb722ca8a748537fca09d8793e05"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdvancedContact/zipball/c56b7edb027f1feb1ed95eb6b332ed0a9bc9452c",
-                    "reference": "c56b7edb027f1feb1ed95eb6b332ed0a9bc9452c",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdvancedContact/zipball/bbc453a2ccb1fb722ca8a748537fca09d8793e05",
+                    "reference": "bbc453a2ccb1fb722ca8a748537fca09d8793e05",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0"
                 },
-                "time": "2023-03-01T12:17:48+00:00",
+                "time": "2023-03-01T12:47:12+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -202,18 +202,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_AdvancedContact.git",
-                    "reference": "9887fca49160f485da26cc7ac0a41c3577870615"
+                    "reference": "cbc9e581f394a5a3a20e2f3032d22e470c7d56c8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdvancedContact/zipball/9887fca49160f485da26cc7ac0a41c3577870615",
-                    "reference": "9887fca49160f485da26cc7ac0a41c3577870615",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdvancedContact/zipball/cbc9e581f394a5a3a20e2f3032d22e470c7d56c8",
+                    "reference": "cbc9e581f394a5a3a20e2f3032d22e470c7d56c8",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0"
                 },
-                "time": "2023-03-01T12:17:57+00:00",
+                "time": "2023-03-01T12:47:50+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -715,44 +715,6 @@
             }
         },
         "magezon/module-lazyload": {
-            "1.0.2": {
-                "name": "magezon/module-lazyload",
-                "version": "1.0.2",
-                "version_normalized": "1.0.2.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:wifi-center/Magezon_LazyLoad.git",
-                    "reference": "0b58eb37e09051de4d66fec3838a51f1ff8c6742"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_LazyLoad/zipball/0b58eb37e09051de4d66fec3838a51f1ff8c6742",
-                    "reference": "0b58eb37e09051de4d66fec3838a51f1ff8c6742",
-                    "shasum": ""
-                },
-                "require": {
-                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0"
-                },
-                "time": "2023-03-01T09:47:32+00:00",
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "Magezon\\LazyLoad\\": ""
-                    }
-                },
-                "license": [
-                    "OSL-3.0",
-                    "AFL-3.0"
-                ],
-                "description": "N/A",
-                "support": {
-                    "source": "https://github.com/wifi-center/Magezon_LazyLoad/tree/1.0.2",
-                    "issues": "https://github.com/wifi-center/Magezon_LazyLoad/issues"
-                }
-            },
             "dev-develop": {
                 "name": "magezon/module-lazyload",
                 "version": "dev-develop",
@@ -760,18 +722,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_LazyLoad.git",
-                    "reference": "0b58eb37e09051de4d66fec3838a51f1ff8c6742"
+                    "reference": "a48e30cfdfac1a91082194dcbcfc6b30829c4aeb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_LazyLoad/zipball/0b58eb37e09051de4d66fec3838a51f1ff8c6742",
-                    "reference": "0b58eb37e09051de4d66fec3838a51f1ff8c6742",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_LazyLoad/zipball/a48e30cfdfac1a91082194dcbcfc6b30829c4aeb",
+                    "reference": "a48e30cfdfac1a91082194dcbcfc6b30829c4aeb",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0"
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0"
                 },
-                "time": "2023-03-01T09:47:32+00:00",
+                "time": "2023-03-01T12:52:50+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -788,7 +750,7 @@
                 ],
                 "description": "N/A",
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_LazyLoad/tree/1.0.2",
+                    "source": "https://github.com/wifi-center/Magezon_LazyLoad/tree/develop",
                     "issues": "https://github.com/wifi-center/Magezon_LazyLoad/issues"
                 }
             },
@@ -799,18 +761,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_LazyLoad.git",
-                    "reference": "0b58eb37e09051de4d66fec3838a51f1ff8c6742"
+                    "reference": "e54f6273cd0062beecd356dc2453e2fcc346ddae"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_LazyLoad/zipball/0b58eb37e09051de4d66fec3838a51f1ff8c6742",
-                    "reference": "0b58eb37e09051de4d66fec3838a51f1ff8c6742",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_LazyLoad/zipball/e54f6273cd0062beecd356dc2453e2fcc346ddae",
+                    "reference": "e54f6273cd0062beecd356dc2453e2fcc346ddae",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0"
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0"
                 },
-                "time": "2023-03-01T09:47:32+00:00",
+                "time": "2023-03-01T12:53:07+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -826,7 +788,7 @@
                 ],
                 "description": "N/A",
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_LazyLoad/tree/1.0.2",
+                    "source": "https://github.com/wifi-center/Magezon_LazyLoad/tree/main",
                     "issues": "https://github.com/wifi-center/Magezon_LazyLoad/issues"
                 }
             }
@@ -1331,18 +1293,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_PageBuilderPreview.git",
-                    "reference": "90e1d23a1874bcefab3315f76742fb50c480afe3"
+                    "reference": "93b9b55967a7c3405f2f34e137f273acbb46544a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_PageBuilderPreview/zipball/90e1d23a1874bcefab3315f76742fb50c480afe3",
-                    "reference": "90e1d23a1874bcefab3315f76742fb50c480afe3",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_PageBuilderPreview/zipball/93b9b55967a7c3405f2f34e137f273acbb46544a",
+                    "reference": "93b9b55967a7c3405f2f34e137f273acbb46544a",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.1.0|~7.2.0|~7.3.0"
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
                 },
-                "time": "2023-03-01T11:54:52+00:00",
+                "time": "2023-03-01T12:54:26+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -1368,18 +1330,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_PageBuilderPreview.git",
-                    "reference": "90e1d23a1874bcefab3315f76742fb50c480afe3"
+                    "reference": "2dd7981404f48e92632d075b3d837f0acf1d1f26"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_PageBuilderPreview/zipball/90e1d23a1874bcefab3315f76742fb50c480afe3",
-                    "reference": "90e1d23a1874bcefab3315f76742fb50c480afe3",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_PageBuilderPreview/zipball/2dd7981404f48e92632d075b3d837f0acf1d1f26",
+                    "reference": "2dd7981404f48e92632d075b3d837f0acf1d1f26",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.1.0|~7.2.0|~7.3.0"
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
                 },
-                "time": "2023-03-01T11:54:52+00:00",
+                "time": "2023-03-01T12:54:04+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -1395,7 +1357,7 @@
                     "AFL-3.0"
                 ],
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_PageBuilderPreview/tree/1.0.0",
+                    "source": "https://github.com/wifi-center/Magezon_PageBuilderPreview/tree/develop",
                     "issues": "https://github.com/wifi-center/Magezon_PageBuilderPreview/issues"
                 }
             },
@@ -1406,18 +1368,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_PageBuilderPreview.git",
-                    "reference": "90e1d23a1874bcefab3315f76742fb50c480afe3"
+                    "reference": "93b9b55967a7c3405f2f34e137f273acbb46544a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_PageBuilderPreview/zipball/90e1d23a1874bcefab3315f76742fb50c480afe3",
-                    "reference": "90e1d23a1874bcefab3315f76742fb50c480afe3",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_PageBuilderPreview/zipball/93b9b55967a7c3405f2f34e137f273acbb46544a",
+                    "reference": "93b9b55967a7c3405f2f34e137f273acbb46544a",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.1.0|~7.2.0|~7.3.0"
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
                 },
-                "time": "2023-03-01T11:54:52+00:00",
+                "time": "2023-03-01T12:54:26+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -2146,18 +2108,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_TabsPro.git",
-                    "reference": "92b7ca155baade0e679e4ea7e13d9d284cf6b21e"
+                    "reference": "cfd0095e24494cad48af70aa61eaaba172edbfaf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_TabsPro/zipball/92b7ca155baade0e679e4ea7e13d9d284cf6b21e",
-                    "reference": "92b7ca155baade0e679e4ea7e13d9d284cf6b21e",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_TabsPro/zipball/cfd0095e24494cad48af70aa61eaaba172edbfaf",
+                    "reference": "cfd0095e24494cad48af70aa61eaaba172edbfaf",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.0.0|~7.1.0|~7.2.0"
+                    "php": "~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0"
                 },
-                "time": "2023-03-01T10:02:52+00:00",
+                "time": "2023-03-01T12:56:53+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -2184,18 +2146,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_TabsPro.git",
-                    "reference": "92b7ca155baade0e679e4ea7e13d9d284cf6b21e"
+                    "reference": "b6592855511b42717749a585b477d6b70972920a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_TabsPro/zipball/92b7ca155baade0e679e4ea7e13d9d284cf6b21e",
-                    "reference": "92b7ca155baade0e679e4ea7e13d9d284cf6b21e",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_TabsPro/zipball/b6592855511b42717749a585b477d6b70972920a",
+                    "reference": "b6592855511b42717749a585b477d6b70972920a",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.0.0|~7.1.0|~7.2.0"
+                    "php": "~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0"
                 },
-                "time": "2023-03-01T10:02:52+00:00",
+                "time": "2023-03-01T12:56:32+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -2212,7 +2174,7 @@
                 ],
                 "description": "N/A",
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_TabsPro/tree/1.0.1",
+                    "source": "https://github.com/wifi-center/Magezon_TabsPro/tree/develop",
                     "issues": "https://github.com/wifi-center/Magezon_TabsPro/issues"
                 }
             },
@@ -2223,18 +2185,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_TabsPro.git",
-                    "reference": "92b7ca155baade0e679e4ea7e13d9d284cf6b21e"
+                    "reference": "cfd0095e24494cad48af70aa61eaaba172edbfaf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_TabsPro/zipball/92b7ca155baade0e679e4ea7e13d9d284cf6b21e",
-                    "reference": "92b7ca155baade0e679e4ea7e13d9d284cf6b21e",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_TabsPro/zipball/cfd0095e24494cad48af70aa61eaaba172edbfaf",
+                    "reference": "cfd0095e24494cad48af70aa61eaaba172edbfaf",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.0.0|~7.1.0|~7.2.0"
+                    "php": "~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0"
                 },
-                "time": "2023-03-01T10:02:52+00:00",
+                "time": "2023-03-01T12:56:53+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [

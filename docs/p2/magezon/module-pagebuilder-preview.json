@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_PageBuilderPreview.git",
-                    "reference": "90e1d23a1874bcefab3315f76742fb50c480afe3"
+                    "reference": "93b9b55967a7c3405f2f34e137f273acbb46544a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_PageBuilderPreview/zipball/90e1d23a1874bcefab3315f76742fb50c480afe3",
-                    "reference": "90e1d23a1874bcefab3315f76742fb50c480afe3",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_PageBuilderPreview/zipball/93b9b55967a7c3405f2f34e137f273acbb46544a",
+                    "reference": "93b9b55967a7c3405f2f34e137f273acbb46544a",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.1.0|~7.2.0|~7.3.0"
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
                 },
-                "time": "2023-03-01T11:54:52+00:00",
+                "time": "2023-03-01T12:54:26+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
