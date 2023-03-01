@@ -1,0 +1,83 @@
+{
+    "packages": {
+        "magezon/module-lazyload": [
+            {
+                "name": "magezon/module-lazyload",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_LazyLoad.git",
+                    "reference": "0b58eb37e09051de4d66fec3838a51f1ff8c6742"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_LazyLoad/zipball/0b58eb37e09051de4d66fec3838a51f1ff8c6742",
+                    "reference": "0b58eb37e09051de4d66fec3838a51f1ff8c6742",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0"
+                },
+                "time": "2023-03-01T09:47:32+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\LazyLoad\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_LazyLoad/tree/1.0.2",
+                    "issues": "https://github.com/wifi-center/Magezon_LazyLoad/issues"
+                }
+            },
+            {
+                "name": "magezon/module-lazyload",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_LazyLoad.git",
+                    "reference": "0b58eb37e09051de4d66fec3838a51f1ff8c6742"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_LazyLoad/zipball/0b58eb37e09051de4d66fec3838a51f1ff8c6742",
+                    "reference": "0b58eb37e09051de4d66fec3838a51f1ff8c6742",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0"
+                },
+                "time": "2023-03-01T09:47:32+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\LazyLoad\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_LazyLoad/tree/1.0.2",
+                    "issues": "https://github.com/wifi-center/Magezon_LazyLoad/issues"
+                }
+            }
+        ]
+    }
+}

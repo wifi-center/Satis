@@ -1,0 +1,83 @@
+{
+    "packages": {
+        "magezon/module-core": [
+            {
+                "name": "magezon/module-core",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_Core.git",
+                    "reference": "d4f04677299f0856115c02588a35b9ef4edb14aa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_Core/zipball/d4f04677299f0856115c02588a35b9ef4edb14aa",
+                    "reference": "d4f04677299f0856115c02588a35b9ef4edb14aa",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~7.3.0||~7.4.0||~8.1.0"
+                },
+                "time": "2023-03-01T09:32:04+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\Core\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_Core/tree/101.3.2",
+                    "issues": "https://github.com/wifi-center/Magezon_Core/issues"
+                }
+            },
+            {
+                "name": "magezon/module-core",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_Core.git",
+                    "reference": "d4f04677299f0856115c02588a35b9ef4edb14aa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_Core/zipball/d4f04677299f0856115c02588a35b9ef4edb14aa",
+                    "reference": "d4f04677299f0856115c02588a35b9ef4edb14aa",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~7.3.0||~7.4.0||~8.1.0"
+                },
+                "time": "2023-03-01T09:32:04+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\Core\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_Core/tree/101.3.2",
+                    "issues": "https://github.com/wifi-center/Magezon_Core/issues"
+                }
+            }
+        ]
+    }
+}

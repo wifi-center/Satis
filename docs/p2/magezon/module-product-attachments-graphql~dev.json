@@ -1,0 +1,87 @@
+{
+    "packages": {
+        "magezon/module-product-attachments-graphql": [
+            {
+                "name": "magezon/module-product-attachments-graphql",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_ProductAttachmentsGraphQl.git",
+                    "reference": "99db2c3ddd405b303ab2ba5b56ed0f2a7148592e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_ProductAttachmentsGraphQl/zipball/99db2c3ddd405b303ab2ba5b56ed0f2a7148592e",
+                    "reference": "99db2c3ddd405b303ab2ba5b56ed0f2a7148592e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-core": "*",
+                    "magezon/module-product-attachments": "*",
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                },
+                "time": "2023-03-01T09:58:07+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\ProductAttachmentsGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Display attachments of any type on product pages",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_ProductAttachmentsGraphQl/tree/1.0.1",
+                    "issues": "https://github.com/wifi-center/Magezon_ProductAttachmentsGraphQl/issues"
+                }
+            },
+            {
+                "name": "magezon/module-product-attachments-graphql",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_ProductAttachmentsGraphQl.git",
+                    "reference": "99db2c3ddd405b303ab2ba5b56ed0f2a7148592e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_ProductAttachmentsGraphQl/zipball/99db2c3ddd405b303ab2ba5b56ed0f2a7148592e",
+                    "reference": "99db2c3ddd405b303ab2ba5b56ed0f2a7148592e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-core": "*",
+                    "magezon/module-product-attachments": "*",
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                },
+                "time": "2023-03-01T09:58:07+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\ProductAttachmentsGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Display attachments of any type on product pages",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_ProductAttachmentsGraphQl/tree/1.0.1",
+                    "issues": "https://github.com/wifi-center/Magezon_ProductAttachmentsGraphQl/issues"
+                }
+            }
+        ]
+    }
+}

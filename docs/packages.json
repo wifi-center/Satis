@@ -1,12 +1,24 @@
 {
     "packages": [],
     "includes": {
-        "include/all$94034598b87a0e21382f682f6cbc096758bba733.json": {
-            "sha1": "94034598b87a0e21382f682f6cbc096758bba733"
+        "include/all$22075fdbf224b199e71fd3ab859aa719245698e3.json": {
+            "sha1": "22075fdbf224b199e71fd3ab859aa719245698e3"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
     "available-packages": [
+        "magezon/module-adminsearch",
+        "magezon/module-builder",
+        "magezon/module-core",
+        "magezon/module-email-attachments",
+        "magezon/module-email-builder",
+        "magezon/module-lazyload",
+        "magezon/module-pdf",
+        "magezon/module-product-attachments",
+        "magezon/module-product-attachments-graphql",
+        "magezon/module-simple-builder",
+        "magezon/module-singple-product-page-builder",
+        "magezon/module-tabspro",
         "magmodules/magento2-channable"
     ]
 }

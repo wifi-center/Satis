@@ -1,0 +1,45 @@
+{
+    "packages": {
+        "magezon/module-product-attachments": [
+            {
+                "name": "magezon/module-product-attachments",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_ProductAttachments.git",
+                    "reference": "d33028875ae04184fe20ddf5e07bff9a848d2a47"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_ProductAttachments/zipball/d33028875ae04184fe20ddf5e07bff9a848d2a47",
+                    "reference": "d33028875ae04184fe20ddf5e07bff9a848d2a47",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-core": "*",
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                },
+                "time": "2023-03-01T09:53:26+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\ProductAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Display attachments of any type on product pages",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_ProductAttachments/tree/1.0.1",
+                    "issues": "https://github.com/wifi-center/Magezon_ProductAttachments/issues"
+                }
+            }
+        ]
+    }
+}

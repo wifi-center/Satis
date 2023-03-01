@@ -1,0 +1,83 @@
+{
+    "packages": {
+        "magezon/module-tabspro": [
+            {
+                "name": "magezon/module-tabspro",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_TabsPro.git",
+                    "reference": "92b7ca155baade0e679e4ea7e13d9d284cf6b21e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_TabsPro/zipball/92b7ca155baade0e679e4ea7e13d9d284cf6b21e",
+                    "reference": "92b7ca155baade0e679e4ea7e13d9d284cf6b21e",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~7.0.0|~7.1.0|~7.2.0"
+                },
+                "time": "2023-03-01T10:02:52+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\TabsPro\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_TabsPro/tree/1.0.1",
+                    "issues": "https://github.com/wifi-center/Magezon_TabsPro/issues"
+                }
+            },
+            {
+                "name": "magezon/module-tabspro",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_TabsPro.git",
+                    "reference": "92b7ca155baade0e679e4ea7e13d9d284cf6b21e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_TabsPro/zipball/92b7ca155baade0e679e4ea7e13d9d284cf6b21e",
+                    "reference": "92b7ca155baade0e679e4ea7e13d9d284cf6b21e",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~7.0.0|~7.1.0|~7.2.0"
+                },
+                "time": "2023-03-01T10:02:52+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\TabsPro\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_TabsPro/tree/1.0.1",
+                    "issues": "https://github.com/wifi-center/Magezon_TabsPro/issues"
+                }
+            }
+        ]
+    }
+}

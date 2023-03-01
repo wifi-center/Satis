@@ -1,0 +1,89 @@
+{
+    "packages": {
+        "magezon/module-email-builder": [
+            {
+                "name": "magezon/module-email-builder",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_EmailBuilder.git",
+                    "reference": "2ba1fc3d4f40e644d6b9bcc0b392e9829c2b031e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_EmailBuilder/zipball/2ba1fc3d4f40e644d6b9bcc0b392e9829c2b031e",
+                    "reference": "2ba1fc3d4f40e644d6b9bcc0b392e9829c2b031e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-builder": "*",
+                    "magezon/module-core": "*",
+                    "magezon/module-simple-builder": "*",
+                    "php": "~7.1.0||~7.2.0||~7.3.0||~7.4.0||~8.1.0"
+                },
+                "time": "2023-03-01T11:23:50+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\EmailBuilder\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magezon Email Builder extension for Magento 2",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_EmailBuilder/tree/develop",
+                    "issues": "https://github.com/wifi-center/Magezon_EmailBuilder/issues"
+                }
+            },
+            {
+                "name": "magezon/module-email-builder",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_EmailBuilder.git",
+                    "reference": "4a0b7fda33d7609845bfb7d587f54f2c6f802122"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_EmailBuilder/zipball/4a0b7fda33d7609845bfb7d587f54f2c6f802122",
+                    "reference": "4a0b7fda33d7609845bfb7d587f54f2c6f802122",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-builder": "*",
+                    "magezon/module-core": "*",
+                    "magezon/module-simple-builder": "*",
+                    "php": "~7.1.0||~7.2.0||~7.3.0||~7.4.0||~8.1.0"
+                },
+                "time": "2023-03-01T11:24:01+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\EmailBuilder\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magezon Email Builder extension for Magento 2",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_EmailBuilder/tree/1.0.2",
+                    "issues": "https://github.com/wifi-center/Magezon_EmailBuilder/issues"
+                }
+            }
+        ]
+    }
+}
