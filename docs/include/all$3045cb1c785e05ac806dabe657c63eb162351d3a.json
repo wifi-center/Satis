@@ -877,18 +877,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_Newsletter.git",
-                    "reference": "feebd205a58005ca9bd9705f057b479228e15c1d"
+                    "reference": "df1769dad06e78cf041eda37bf2d6d3ce636ce1f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_Newsletter/zipball/feebd205a58005ca9bd9705f057b479228e15c1d",
-                    "reference": "feebd205a58005ca9bd9705f057b479228e15c1d",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_Newsletter/zipball/df1769dad06e78cf041eda37bf2d6d3ce636ce1f",
+                    "reference": "df1769dad06e78cf041eda37bf2d6d3ce636ce1f",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.1.0|~7.2.0|~7.3.0"
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
                 },
-                "time": "2023-03-01T11:42:11+00:00",
+                "time": "2023-03-01T14:00:57+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -914,18 +914,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_Newsletter.git",
-                    "reference": "feebd205a58005ca9bd9705f057b479228e15c1d"
+                    "reference": "0991e19bf549f4fe7a70e6dc905023e6dbe07f1c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_Newsletter/zipball/feebd205a58005ca9bd9705f057b479228e15c1d",
-                    "reference": "feebd205a58005ca9bd9705f057b479228e15c1d",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_Newsletter/zipball/0991e19bf549f4fe7a70e6dc905023e6dbe07f1c",
+                    "reference": "0991e19bf549f4fe7a70e6dc905023e6dbe07f1c",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.1.0|~7.2.0|~7.3.0"
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
                 },
-                "time": "2023-03-01T11:42:11+00:00",
+                "time": "2023-03-01T14:00:49+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -941,7 +941,7 @@
                     "AFL-3.0"
                 ],
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_Newsletter/tree/1.0.0",
+                    "source": "https://github.com/wifi-center/Magezon_Newsletter/tree/develop",
                     "issues": "https://github.com/wifi-center/Magezon_Newsletter/issues"
                 }
             },
@@ -952,18 +952,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_Newsletter.git",
-                    "reference": "feebd205a58005ca9bd9705f057b479228e15c1d"
+                    "reference": "df1769dad06e78cf041eda37bf2d6d3ce636ce1f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_Newsletter/zipball/feebd205a58005ca9bd9705f057b479228e15c1d",
-                    "reference": "feebd205a58005ca9bd9705f057b479228e15c1d",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_Newsletter/zipball/df1769dad06e78cf041eda37bf2d6d3ce636ce1f",
+                    "reference": "df1769dad06e78cf041eda37bf2d6d3ce636ce1f",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.1.0|~7.2.0|~7.3.0"
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
                 },
-                "time": "2023-03-01T11:42:11+00:00",
+                "time": "2023-03-01T14:00:57+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
