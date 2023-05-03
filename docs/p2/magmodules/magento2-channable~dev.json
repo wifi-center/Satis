@@ -113,7 +113,7 @@
                 "description": "Channable integration for Magento 2",
                 "homepage": "https://github.com/magmodules/magento2-channable",
                 "support": {
-                    "source": "https://github.com/wifi-center/magmodules-magento2-channable/tree/master"
+                    "source": "https://github.com/wifi-center/magmodules-magento2-channable/tree/1.4.2.1"
                 }
             }
         ]
