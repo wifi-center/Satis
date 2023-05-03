@@ -2455,19 +2455,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/wifi-center/magmodules-magento2-channable.git",
-                    "reference": "55f80b6c7926fe0b59a5ce4f21e823db65265d4d"
+                    "reference": "f3697ceb07abd2bbf649a5ab9097802cbea2e69d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/magmodules-magento2-channable/zipball/55f80b6c7926fe0b59a5ce4f21e823db65265d4d",
-                    "reference": "55f80b6c7926fe0b59a5ce4f21e823db65265d4d",
+                    "url": "https://api.github.com/repos/wifi-center/magmodules-magento2-channable/zipball/f3697ceb07abd2bbf649a5ab9097802cbea2e69d",
+                    "reference": "f3697ceb07abd2bbf649a5ab9097802cbea2e69d",
                     "shasum": ""
                 },
                 "require": {
                     "ext-json": "*",
                     "magento/framework": ">=102.0.3"
                 },
-                "time": "2023-01-11T15:28:36+00:00",
+                "time": "2023-05-03T17:18:20+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -2531,19 +2531,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/wifi-center/magmodules-magento2-channable.git",
-                    "reference": "af841ab75f5b9c96037abfd2938342bd7d29b840"
+                    "reference": "3e4e69974b83509132ce2bcdf54b5189a33c5b64"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/magmodules-magento2-channable/zipball/af841ab75f5b9c96037abfd2938342bd7d29b840",
-                    "reference": "af841ab75f5b9c96037abfd2938342bd7d29b840",
+                    "url": "https://api.github.com/repos/wifi-center/magmodules-magento2-channable/zipball/3e4e69974b83509132ce2bcdf54b5189a33c5b64",
+                    "reference": "3e4e69974b83509132ce2bcdf54b5189a33c5b64",
                     "shasum": ""
                 },
                 "require": {
                     "ext-json": "*",
                     "magento/framework": ">=102.0.3"
                 },
-                "time": "2023-01-11T15:28:36+00:00",
+                "time": "2023-05-03T17:18:20+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -2560,7 +2560,7 @@
                 "description": "Channable integration for Magento 2",
                 "homepage": "https://github.com/magmodules/magento2-channable",
                 "support": {
-                    "source": "https://github.com/wifi-center/magmodules-magento2-channable/tree/1.14.0.2"
+                    "source": "https://github.com/wifi-center/magmodules-magento2-channable/tree/master"
                 }
             }
         }
