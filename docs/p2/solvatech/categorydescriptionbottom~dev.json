@@ -1,0 +1,53 @@
+{
+    "packages": {
+        "solvatech/categorydescriptionbottom": [
+            {
+                "name": "solvatech/categorydescriptionbottom",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Solvatech_M2_CategoryDescriptionBottom.git",
+                    "reference": "903cb6ea42e21ee08b6b3e51ac4d2a8d31886ca2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Solvatech_M2_CategoryDescriptionBottom/zipball/903cb6ea42e21ee08b6b3e51ac4d2a8d31886ca2",
+                    "reference": "903cb6ea42e21ee08b6b3e51ac4d2a8d31886ca2",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2023-05-03T19:03:10+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Solvatech\\CategoryDescriptionBottom\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module to add Category Description Bottom field",
+                "homepage": "https://github.com/wifi-center/Solvatech_M2_CategoryDescriptionBottom",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/wifi-center/Solvatech_M2_CategoryDescriptionBottom/tree/1.2.0",
+                    "issues": "https://github.com/wifi-center/Solvatech_M2_CategoryDescriptionBottom/issues"
+                }
+            }
+        ]
+    }
+}

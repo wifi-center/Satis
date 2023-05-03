@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$06c172cfe06e074635139475aed9e3ed60592c51.json": {
-            "sha1": "06c172cfe06e074635139475aed9e3ed60592c51"
+        "include/all$59a104ce7b94e6bbcbdf53433b5cf7c7fc86e03a.json": {
+            "sha1": "59a104ce7b94e6bbcbdf53433b5cf7c7fc86e03a"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -26,6 +26,7 @@
         "magezon/module-singple-product-page-builder",
         "magezon/module-singple-product-page-builder-attachments",
         "magezon/module-tabspro",
-        "magmodules/magento2-channable"
+        "magmodules/magento2-channable",
+        "solvatech/categorydescriptionbottom"
     ]
 }
