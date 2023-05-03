@@ -82,6 +82,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/wifi-center/magmodules-magento2-channable"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wifi-center/Solvatech_M2_CategoryDescriptionBottom"
     }
   ],
   "require-all": true
