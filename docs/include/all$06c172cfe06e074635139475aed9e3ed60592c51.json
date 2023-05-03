@@ -3562,6 +3562,44 @@
                     "source": "https://github.com/wifi-center/magmodules-magento2-channable/tree/1.14.2"
                 }
             },
+            "1.14.2.1": {
+                "name": "magmodules/magento2-channable",
+                "version": "1.14.2.1",
+                "version_normalized": "1.14.2.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wifi-center/magmodules-magento2-channable.git",
+                    "reference": "3e4e69974b83509132ce2bcdf54b5189a33c5b64"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/magmodules-magento2-channable/zipball/3e4e69974b83509132ce2bcdf54b5189a33c5b64",
+                    "reference": "3e4e69974b83509132ce2bcdf54b5189a33c5b64",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "magento/framework": ">=102.0.3"
+                },
+                "time": "2023-05-03T17:18:20+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magmodules\\Channable\\": ""
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "description": "Channable integration for Magento 2",
+                "homepage": "https://github.com/magmodules/magento2-channable",
+                "support": {
+                    "source": "https://github.com/wifi-center/magmodules-magento2-channable/tree/1.14.2.1"
+                }
+            },
             "1.2.0": {
                 "name": "magmodules/magento2-channable",
                 "version": "1.2.0",
@@ -5442,7 +5480,7 @@
                 "description": "Channable integration for Magento 2",
                 "homepage": "https://github.com/magmodules/magento2-channable",
                 "support": {
-                    "source": "https://github.com/wifi-center/magmodules-magento2-channable/tree/1.4.2.1"
+                    "source": "https://github.com/wifi-center/magmodules-magento2-channable/tree/1.14.2.1"
                 }
             }
         }
