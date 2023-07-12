@@ -8,19 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_ProductAttachments.git",
-                    "reference": "d33028875ae04184fe20ddf5e07bff9a848d2a47"
+                    "reference": "387576cc9f6dee68ae59dfe15d8fb5485aac1a99"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_ProductAttachments/zipball/d33028875ae04184fe20ddf5e07bff9a848d2a47",
-                    "reference": "d33028875ae04184fe20ddf5e07bff9a848d2a47",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_ProductAttachments/zipball/387576cc9f6dee68ae59dfe15d8fb5485aac1a99",
+                    "reference": "387576cc9f6dee68ae59dfe15d8fb5485aac1a99",
                     "shasum": ""
                 },
                 "require": {
                     "magezon/module-core": "*",
-                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0|~8.2.0"
                 },
-                "time": "2023-03-01T09:53:26+00:00",
+                "time": "2023-07-12T08:32:28+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -37,7 +37,7 @@
                 ],
                 "description": "Display attachments of any type on product pages",
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_ProductAttachments/tree/1.0.1",
+                    "source": "https://github.com/wifi-center/Magezon_ProductAttachments/tree/1.0.3",
                     "issues": "https://github.com/wifi-center/Magezon_ProductAttachments/issues"
                 }
             },

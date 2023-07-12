@@ -1,8 +1,8 @@
 {
     "packages": {
-        "magezon/module-adminsearch": {
+        "magezon/module-admin-search": {
             "1.0.0": {
-                "name": "magezon/module-adminsearch",
+                "name": "magezon/module-admin-search",
                 "version": "1.0.0",
                 "version_normalized": "1.0.0.0",
                 "source": {
@@ -39,26 +39,64 @@
                     "issues": "https://github.com/wifi-center/Magezon_AdminSearch/issues"
                 }
             },
+            "1.0.1": {
+                "name": "magezon/module-admin-search",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_AdminSearch.git",
+                    "reference": "39d6a6138071c0307dcf28f1fb6fdaeaa31733fc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdminSearch/zipball/39d6a6138071c0307dcf28f1fb6fdaeaa31733fc",
+                    "reference": "39d6a6138071c0307dcf28f1fb6fdaeaa31733fc",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-core": "*",
+                    "php": "~7.1.0|~7.2.0|~7.3.0||~7.4.0||~8.1.0||8.2.0"
+                },
+                "time": "2023-07-12T07:34:57+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\AdminSearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_AdminSearch/tree/1.0.1",
+                    "issues": "https://github.com/wifi-center/Magezon_AdminSearch/issues"
+                }
+            },
             "dev-develop": {
-                "name": "magezon/module-adminsearch",
+                "name": "magezon/module-admin-search",
                 "version": "dev-develop",
                 "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_AdminSearch.git",
-                    "reference": "3c36af573199a98e45c9699d7476ae8a90cd1725"
+                    "reference": "4e7ada02a076c08a694c940c17f4d646f56f3052"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdminSearch/zipball/3c36af573199a98e45c9699d7476ae8a90cd1725",
-                    "reference": "3c36af573199a98e45c9699d7476ae8a90cd1725",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdminSearch/zipball/4e7ada02a076c08a694c940c17f4d646f56f3052",
+                    "reference": "4e7ada02a076c08a694c940c17f4d646f56f3052",
                     "shasum": ""
                 },
                 "require": {
                     "magezon/module-core": "*",
-                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                    "php": "~7.1.0|~7.2.0|~7.3.0||~7.4.0||~8.1.0||8.2.0"
                 },
-                "time": "2023-03-01T12:45:09+00:00",
+                "time": "2023-07-12T07:34:57+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -79,25 +117,25 @@
                 }
             },
             "dev-main": {
-                "name": "magezon/module-adminsearch",
+                "name": "magezon/module-admin-search",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_AdminSearch.git",
-                    "reference": "36e64fdb84dc9a5b45905e8d31246ccf54a897f9"
+                    "reference": "39d6a6138071c0307dcf28f1fb6fdaeaa31733fc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdminSearch/zipball/36e64fdb84dc9a5b45905e8d31246ccf54a897f9",
-                    "reference": "36e64fdb84dc9a5b45905e8d31246ccf54a897f9",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdminSearch/zipball/39d6a6138071c0307dcf28f1fb6fdaeaa31733fc",
+                    "reference": "39d6a6138071c0307dcf28f1fb6fdaeaa31733fc",
                     "shasum": ""
                 },
                 "require": {
                     "magezon/module-core": "*",
-                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                    "php": "~7.1.0|~7.2.0|~7.3.0||~7.4.0||~8.1.0||8.2.0"
                 },
-                "time": "2023-03-01T12:45:49+00:00",
+                "time": "2023-07-12T07:34:57+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -112,7 +150,7 @@
                     "AFL-3.0"
                 ],
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_AdminSearch/tree/1.0.0",
+                    "source": "https://github.com/wifi-center/Magezon_AdminSearch/tree/1.0.1",
                     "issues": "https://github.com/wifi-center/Magezon_AdminSearch/issues"
                 }
             }
@@ -156,6 +194,45 @@
                     "issues": "https://github.com/wifi-center/Magezon_AdvancedContact/issues"
                 }
             },
+            "1.0.1": {
+                "name": "magezon/module-advanced-contact",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_AdvancedContact.git",
+                    "reference": "f52ccf0e2635ab67253cddf803e5ee57822f33f0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdvancedContact/zipball/f52ccf0e2635ab67253cddf803e5ee57822f33f0",
+                    "reference": "f52ccf0e2635ab67253cddf803e5ee57822f33f0",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-core": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0||~8.1.0||~8.2.0"
+                },
+                "time": "2023-07-12T07:36:12+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\AdvancedContact\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "A module that creates a Contact page management in the Magento admin area",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_AdvancedContact/tree/1.0.1",
+                    "issues": "https://github.com/wifi-center/Magezon_AdvancedContact/issues"
+                }
+            },
             "dev-develop": {
                 "name": "magezon/module-advanced-contact",
                 "version": "dev-develop",
@@ -163,18 +240,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_AdvancedContact.git",
-                    "reference": "bbc453a2ccb1fb722ca8a748537fca09d8793e05"
+                    "reference": "4735f69a841d87bef7dbdd42aa47eea3cac68364"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdvancedContact/zipball/bbc453a2ccb1fb722ca8a748537fca09d8793e05",
-                    "reference": "bbc453a2ccb1fb722ca8a748537fca09d8793e05",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdvancedContact/zipball/4735f69a841d87bef7dbdd42aa47eea3cac68364",
+                    "reference": "4735f69a841d87bef7dbdd42aa47eea3cac68364",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0"
+                    "magezon/module-core": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0||~8.1.0||~8.2.0"
                 },
-                "time": "2023-03-01T12:47:12+00:00",
+                "time": "2023-07-12T07:36:12+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -189,7 +267,7 @@
                     "OSL-3.0",
                     "AFL-3.0"
                 ],
-                "description": "A module that creates a page in the Magento admin area",
+                "description": "A module that creates a Contact page management in the Magento admin area",
                 "support": {
                     "source": "https://github.com/wifi-center/Magezon_AdvancedContact/tree/develop",
                     "issues": "https://github.com/wifi-center/Magezon_AdvancedContact/issues"
@@ -202,18 +280,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_AdvancedContact.git",
-                    "reference": "cbc9e581f394a5a3a20e2f3032d22e470c7d56c8"
+                    "reference": "f52ccf0e2635ab67253cddf803e5ee57822f33f0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdvancedContact/zipball/cbc9e581f394a5a3a20e2f3032d22e470c7d56c8",
-                    "reference": "cbc9e581f394a5a3a20e2f3032d22e470c7d56c8",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdvancedContact/zipball/f52ccf0e2635ab67253cddf803e5ee57822f33f0",
+                    "reference": "f52ccf0e2635ab67253cddf803e5ee57822f33f0",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0"
+                    "magezon/module-core": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0||~8.1.0||~8.2.0"
                 },
-                "time": "2023-03-01T12:47:50+00:00",
+                "time": "2023-07-12T07:36:12+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -227,14 +306,52 @@
                     "OSL-3.0",
                     "AFL-3.0"
                 ],
-                "description": "A module that creates a page in the Magento admin area",
+                "description": "A module that creates a Contact page management in the Magento admin area",
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_AdvancedContact/tree/1.0.0",
+                    "source": "https://github.com/wifi-center/Magezon_AdvancedContact/tree/1.0.1",
                     "issues": "https://github.com/wifi-center/Magezon_AdvancedContact/issues"
                 }
             }
         },
         "magezon/module-builder": {
+            "1.1.1": {
+                "name": "magezon/module-builder",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_Builder.git",
+                    "reference": "ddd3688ab7f8d9f6fa2c273dc4d0a9a753cc2713"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_Builder/zipball/ddd3688ab7f8d9f6fa2c273dc4d0a9a753cc2713",
+                    "reference": "ddd3688ab7f8d9f6fa2c273dc4d0a9a753cc2713",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0||~8.1.0||~8.2.0"
+                },
+                "time": "2023-07-12T07:37:15+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\Builder\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_Builder/tree/1.1.1",
+                    "issues": "https://github.com/wifi-center/Magezon_Builder/issues"
+                }
+            },
             "1.2.5": {
                 "name": "magezon/module-builder",
                 "version": "1.2.5",
@@ -280,18 +397,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_Builder.git",
-                    "reference": "6c700c947d1a5fc66900eac8053d9c099afe8a2d"
+                    "reference": "56327182a455b04100a36abecbdd797d9dcb045d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_Builder/zipball/6c700c947d1a5fc66900eac8053d9c099afe8a2d",
-                    "reference": "6c700c947d1a5fc66900eac8053d9c099afe8a2d",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_Builder/zipball/56327182a455b04100a36abecbdd797d9dcb045d",
+                    "reference": "56327182a455b04100a36abecbdd797d9dcb045d",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0||~8.1.0"
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0||~8.1.0||~8.2.0"
                 },
-                "time": "2023-03-01T11:22:33+00:00",
+                "time": "2023-07-12T07:37:14+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -319,18 +436,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_Builder.git",
-                    "reference": "d1ee19b1ae3c6fd3ba608ab225db846131d2b078"
+                    "reference": "ddd3688ab7f8d9f6fa2c273dc4d0a9a753cc2713"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_Builder/zipball/d1ee19b1ae3c6fd3ba608ab225db846131d2b078",
-                    "reference": "d1ee19b1ae3c6fd3ba608ab225db846131d2b078",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_Builder/zipball/ddd3688ab7f8d9f6fa2c273dc4d0a9a753cc2713",
+                    "reference": "ddd3688ab7f8d9f6fa2c273dc4d0a9a753cc2713",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0||~8.1.0"
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0||~8.1.0||~8.2.0"
                 },
-                "time": "2023-03-01T11:23:17+00:00",
+                "time": "2023-07-12T07:37:15+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -346,7 +463,7 @@
                 ],
                 "description": "N/A",
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_Builder/tree/1.2.5",
+                    "source": "https://github.com/wifi-center/Magezon_Builder/tree/1.1.1",
                     "issues": "https://github.com/wifi-center/Magezon_Builder/issues"
                 }
             }
@@ -435,18 +552,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_Core.git",
-                    "reference": "d4f04677299f0856115c02588a35b9ef4edb14aa"
+                    "reference": "2842a878cf056d9a680b9696a19af0f8255c6f6c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_Core/zipball/d4f04677299f0856115c02588a35b9ef4edb14aa",
-                    "reference": "d4f04677299f0856115c02588a35b9ef4edb14aa",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_Core/zipball/2842a878cf056d9a680b9696a19af0f8255c6f6c",
+                    "reference": "2842a878cf056d9a680b9696a19af0f8255c6f6c",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.3.0||~7.4.0||~8.1.0"
+                    "php": "~7.3.0||~7.4.0||~8.1.0||~8.2.0"
                 },
-                "time": "2023-03-01T09:32:04+00:00",
+                "time": "2023-07-12T07:42:07+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -463,7 +580,7 @@
                 ],
                 "description": "N/A",
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_Core/tree/101.3.2",
+                    "source": "https://github.com/wifi-center/Magezon_Core/tree/develop",
                     "issues": "https://github.com/wifi-center/Magezon_Core/issues"
                 }
             },
@@ -474,18 +591,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_Core.git",
-                    "reference": "d4f04677299f0856115c02588a35b9ef4edb14aa"
+                    "reference": "91cbb6347305015d7465e7b463c8aa9260790103"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_Core/zipball/d4f04677299f0856115c02588a35b9ef4edb14aa",
-                    "reference": "d4f04677299f0856115c02588a35b9ef4edb14aa",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_Core/zipball/91cbb6347305015d7465e7b463c8aa9260790103",
+                    "reference": "91cbb6347305015d7465e7b463c8aa9260790103",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.3.0||~7.4.0||~8.1.0"
+                    "php": "~7.3.0||~7.4.0||~8.1.0||~8.2.0"
                 },
-                "time": "2023-03-01T09:32:04+00:00",
+                "time": "2023-07-12T07:42:07+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -501,7 +618,7 @@
                 ],
                 "description": "N/A",
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_Core/tree/101.3.2",
+                    "source": "https://github.com/wifi-center/Magezon_Core/tree/103.3.3",
                     "issues": "https://github.com/wifi-center/Magezon_Core/issues"
                 }
             }
@@ -546,6 +663,45 @@
                     "issues": "https://github.com/wifi-center/Magezon_EmailAttachments/issues"
                 }
             },
+            "1.0.1": {
+                "name": "magezon/module-email-attachments",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_EmailAttachments.git",
+                    "reference": "20f83327d064ad7cced62286002e79f22d1ac333"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_EmailAttachments/zipball/20f83327d064ad7cced62286002e79f22d1ac333",
+                    "reference": "20f83327d064ad7cced62286002e79f22d1ac333",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-core": "*",
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0|~8.2.0"
+                },
+                "time": "2023-07-12T07:50:48+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\EmailAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Display attachments on sales email",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_EmailAttachments/tree/1.0.1",
+                    "issues": "https://github.com/wifi-center/Magezon_EmailAttachments/issues"
+                }
+            },
             "dev-develop": {
                 "name": "magezon/module-email-attachments",
                 "version": "dev-develop",
@@ -553,19 +709,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_EmailAttachments.git",
-                    "reference": "303441b4df582e3cbc0cb7eb48c0cbd26609da04"
+                    "reference": "6d567511f92c72ed0737b8d302df053e19642f12"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_EmailAttachments/zipball/303441b4df582e3cbc0cb7eb48c0cbd26609da04",
-                    "reference": "303441b4df582e3cbc0cb7eb48c0cbd26609da04",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_EmailAttachments/zipball/6d567511f92c72ed0737b8d302df053e19642f12",
+                    "reference": "6d567511f92c72ed0737b8d302df053e19642f12",
                     "shasum": ""
                 },
                 "require": {
                     "magezon/module-core": "*",
-                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0|~8.2.0"
                 },
-                "time": "2023-03-01T09:21:01+00:00",
+                "time": "2023-07-12T07:50:48+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -582,7 +738,7 @@
                 ],
                 "description": "Display attachments on sales email",
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_EmailAttachments/tree/1.0.0",
+                    "source": "https://github.com/wifi-center/Magezon_EmailAttachments/tree/develop",
                     "issues": "https://github.com/wifi-center/Magezon_EmailAttachments/issues"
                 }
             },
@@ -593,19 +749,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_EmailAttachments.git",
-                    "reference": "303441b4df582e3cbc0cb7eb48c0cbd26609da04"
+                    "reference": "20f83327d064ad7cced62286002e79f22d1ac333"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_EmailAttachments/zipball/303441b4df582e3cbc0cb7eb48c0cbd26609da04",
-                    "reference": "303441b4df582e3cbc0cb7eb48c0cbd26609da04",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_EmailAttachments/zipball/20f83327d064ad7cced62286002e79f22d1ac333",
+                    "reference": "20f83327d064ad7cced62286002e79f22d1ac333",
                     "shasum": ""
                 },
                 "require": {
                     "magezon/module-core": "*",
-                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0|~8.2.0"
                 },
-                "time": "2023-03-01T09:21:01+00:00",
+                "time": "2023-07-12T07:50:48+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -621,7 +777,7 @@
                 ],
                 "description": "Display attachments on sales email",
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_EmailAttachments/tree/1.0.0",
+                    "source": "https://github.com/wifi-center/Magezon_EmailAttachments/tree/1.0.1",
                     "issues": "https://github.com/wifi-center/Magezon_EmailAttachments/issues"
                 }
             }
@@ -1556,19 +1712,19 @@
                     "issues": "https://github.com/wifi-center/Magezon_Pdf/issues"
                 }
             },
-            "dev-develop": {
+            "1.0.4": {
                 "name": "magezon/module-pdf",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_Pdf.git",
-                    "reference": "94720a3f5e6928fe0a9d1e516466036f4c0a29a5"
+                    "reference": "1f01a73f868460a231082f288b340d5d41e6ca7a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_Pdf/zipball/94720a3f5e6928fe0a9d1e516466036f4c0a29a5",
-                    "reference": "94720a3f5e6928fe0a9d1e516466036f4c0a29a5",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_Pdf/zipball/1f01a73f868460a231082f288b340d5d41e6ca7a",
+                    "reference": "1f01a73f868460a231082f288b340d5d41e6ca7a",
                     "shasum": ""
                 },
                 "require": {
@@ -1577,9 +1733,51 @@
                     "magezon/module-simple-builder": "*",
                     "mpdf/mpdf": "*",
                     "mpdf/qrcode": "*",
-                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0||~8.1.0"
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0||~8.1.0||~8.2.0"
                 },
-                "time": "2023-03-01T09:50:51+00:00",
+                "time": "2023-07-12T07:55:00+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\Pdf\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_Pdf/tree/1.0.4",
+                    "issues": "https://github.com/wifi-center/Magezon_Pdf/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "magezon/module-pdf",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_Pdf.git",
+                    "reference": "8fd5f0dde0bc306d3fd4a497f50d5a3d43f7e0ed"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_Pdf/zipball/8fd5f0dde0bc306d3fd4a497f50d5a3d43f7e0ed",
+                    "reference": "8fd5f0dde0bc306d3fd4a497f50d5a3d43f7e0ed",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-builder": "*",
+                    "magezon/module-core": "*",
+                    "magezon/module-simple-builder": "*",
+                    "mpdf/mpdf": "*",
+                    "mpdf/qrcode": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0||~8.1.0||~8.2.0"
+                },
+                "time": "2023-07-12T07:54:59+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -1595,7 +1793,7 @@
                     "AFL-3.0"
                 ],
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_Pdf/tree/1.0.2",
+                    "source": "https://github.com/wifi-center/Magezon_Pdf/tree/develop",
                     "issues": "https://github.com/wifi-center/Magezon_Pdf/issues"
                 }
             },
@@ -1606,12 +1804,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_Pdf.git",
-                    "reference": "94720a3f5e6928fe0a9d1e516466036f4c0a29a5"
+                    "reference": "1f01a73f868460a231082f288b340d5d41e6ca7a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_Pdf/zipball/94720a3f5e6928fe0a9d1e516466036f4c0a29a5",
-                    "reference": "94720a3f5e6928fe0a9d1e516466036f4c0a29a5",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_Pdf/zipball/1f01a73f868460a231082f288b340d5d41e6ca7a",
+                    "reference": "1f01a73f868460a231082f288b340d5d41e6ca7a",
                     "shasum": ""
                 },
                 "require": {
@@ -1620,9 +1818,9 @@
                     "magezon/module-simple-builder": "*",
                     "mpdf/mpdf": "*",
                     "mpdf/qrcode": "*",
-                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0||~8.1.0"
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0||~8.1.0||~8.2.0"
                 },
-                "time": "2023-03-01T09:50:51+00:00",
+                "time": "2023-07-12T07:55:00+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -1637,7 +1835,7 @@
                     "AFL-3.0"
                 ],
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_Pdf/tree/1.0.2",
+                    "source": "https://github.com/wifi-center/Magezon_Pdf/tree/1.0.4",
                     "issues": "https://github.com/wifi-center/Magezon_Pdf/issues"
                 }
             }
@@ -1682,6 +1880,45 @@
                     "issues": "https://github.com/wifi-center/Magezon_ProductAttachments/issues"
                 }
             },
+            "1.0.3": {
+                "name": "magezon/module-product-attachments",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_ProductAttachments.git",
+                    "reference": "387576cc9f6dee68ae59dfe15d8fb5485aac1a99"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_ProductAttachments/zipball/387576cc9f6dee68ae59dfe15d8fb5485aac1a99",
+                    "reference": "387576cc9f6dee68ae59dfe15d8fb5485aac1a99",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-core": "*",
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0|~8.2.0"
+                },
+                "time": "2023-07-12T08:32:28+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\ProductAttachments\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Display attachments of any type on product pages",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_ProductAttachments/tree/1.0.3",
+                    "issues": "https://github.com/wifi-center/Magezon_ProductAttachments/issues"
+                }
+            },
             "dev-develop": {
                 "name": "magezon/module-product-attachments",
                 "version": "dev-develop",
@@ -1689,19 +1926,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_ProductAttachments.git",
-                    "reference": "d33028875ae04184fe20ddf5e07bff9a848d2a47"
+                    "reference": "387576cc9f6dee68ae59dfe15d8fb5485aac1a99"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_ProductAttachments/zipball/d33028875ae04184fe20ddf5e07bff9a848d2a47",
-                    "reference": "d33028875ae04184fe20ddf5e07bff9a848d2a47",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_ProductAttachments/zipball/387576cc9f6dee68ae59dfe15d8fb5485aac1a99",
+                    "reference": "387576cc9f6dee68ae59dfe15d8fb5485aac1a99",
                     "shasum": ""
                 },
                 "require": {
                     "magezon/module-core": "*",
-                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0|~8.2.0"
                 },
-                "time": "2023-03-01T09:53:26+00:00",
+                "time": "2023-07-12T08:32:28+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -1718,7 +1955,7 @@
                 ],
                 "description": "Display attachments of any type on product pages",
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_ProductAttachments/tree/1.0.1",
+                    "source": "https://github.com/wifi-center/Magezon_ProductAttachments/tree/1.0.3",
                     "issues": "https://github.com/wifi-center/Magezon_ProductAttachments/issues"
                 }
             },
@@ -1885,6 +2122,129 @@
                 }
             }
         },
+        "magezon/module-product-page-builder": {
+            "1.0.4": {
+                "name": "magezon/module-product-page-builder",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_ProductPageBuilder.git",
+                    "reference": "89793bf2b377c0fecab2648d67c71923f36713c9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_ProductPageBuilder/zipball/89793bf2b377c0fecab2648d67c71923f36713c9",
+                    "reference": "89793bf2b377c0fecab2648d67c71923f36713c9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-builder": "*",
+                    "magezon/module-core": "*",
+                    "php": "~7.3.0|~7.4.0|~8.1.0"
+                },
+                "time": "2023-03-01T10:00:38+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\ProductPageBuilder\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Customize layout of any product page with simple drag and drop.",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_ProductPageBuilder/tree/1.0.4",
+                    "issues": "https://github.com/wifi-center/Magezon_ProductPageBuilder/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "magezon/module-product-page-builder",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_ProductPageBuilder.git",
+                    "reference": "de9dc75fc7bd4a318c9749b154b32d0d872e5a3e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_ProductPageBuilder/zipball/de9dc75fc7bd4a318c9749b154b32d0d872e5a3e",
+                    "reference": "de9dc75fc7bd4a318c9749b154b32d0d872e5a3e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-builder": "*",
+                    "magezon/module-core": "*",
+                    "php": "~7.3.0|~7.4.0|~8.1.0|~8.2.0"
+                },
+                "time": "2023-07-12T08:34:35+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\ProductPageBuilder\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Customize layout of any product page with simple drag and drop.",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_ProductPageBuilder/tree/develop",
+                    "issues": "https://github.com/wifi-center/Magezon_ProductPageBuilder/issues"
+                }
+            },
+            "dev-main": {
+                "name": "magezon/module-product-page-builder",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_ProductPageBuilder.git",
+                    "reference": "2f3f9a5d91dd117d1263dc2a4c11a4597a2a4534"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_ProductPageBuilder/zipball/2f3f9a5d91dd117d1263dc2a4c11a4597a2a4534",
+                    "reference": "2f3f9a5d91dd117d1263dc2a4c11a4597a2a4534",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-builder": "*",
+                    "magezon/module-core": "*",
+                    "php": "~7.3.0|~7.4.0|~8.1.0|~8.2.0"
+                },
+                "time": "2023-07-12T08:34:36+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\ProductPageBuilder\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Customize layout of any product page with simple drag and drop.",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_ProductPageBuilder/tree/main",
+                    "issues": "https://github.com/wifi-center/Magezon_ProductPageBuilder/issues"
+                }
+            }
+        },
         "magezon/module-simple-builder": {
             "1.0.2": {
                 "name": "magezon/module-simple-builder",
@@ -2002,129 +2362,6 @@
                 "support": {
                     "source": "https://github.com/wifi-center/Magezon_SimpleBuilder/tree/1.0.2",
                     "issues": "https://github.com/wifi-center/Magezon_SimpleBuilder/issues"
-                }
-            }
-        },
-        "magezon/module-singple-product-page-builder": {
-            "1.0.4": {
-                "name": "magezon/module-singple-product-page-builder",
-                "version": "1.0.4",
-                "version_normalized": "1.0.4.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:wifi-center/Magezon_ProductPageBuilder.git",
-                    "reference": "89793bf2b377c0fecab2648d67c71923f36713c9"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_ProductPageBuilder/zipball/89793bf2b377c0fecab2648d67c71923f36713c9",
-                    "reference": "89793bf2b377c0fecab2648d67c71923f36713c9",
-                    "shasum": ""
-                },
-                "require": {
-                    "magezon/module-builder": "*",
-                    "magezon/module-core": "*",
-                    "php": "~7.3.0|~7.4.0|~8.1.0"
-                },
-                "time": "2023-03-01T10:00:38+00:00",
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "Magezon\\ProductPageBuilder\\": ""
-                    }
-                },
-                "license": [
-                    "OSL-3.0",
-                    "AFL-3.0"
-                ],
-                "description": "Customize layout of any product page with simple drag and drop.",
-                "support": {
-                    "source": "https://github.com/wifi-center/Magezon_ProductPageBuilder/tree/1.0.4",
-                    "issues": "https://github.com/wifi-center/Magezon_ProductPageBuilder/issues"
-                }
-            },
-            "dev-develop": {
-                "name": "magezon/module-singple-product-page-builder",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:wifi-center/Magezon_ProductPageBuilder.git",
-                    "reference": "89793bf2b377c0fecab2648d67c71923f36713c9"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_ProductPageBuilder/zipball/89793bf2b377c0fecab2648d67c71923f36713c9",
-                    "reference": "89793bf2b377c0fecab2648d67c71923f36713c9",
-                    "shasum": ""
-                },
-                "require": {
-                    "magezon/module-builder": "*",
-                    "magezon/module-core": "*",
-                    "php": "~7.3.0|~7.4.0|~8.1.0"
-                },
-                "time": "2023-03-01T10:00:38+00:00",
-                "default-branch": true,
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "Magezon\\ProductPageBuilder\\": ""
-                    }
-                },
-                "license": [
-                    "OSL-3.0",
-                    "AFL-3.0"
-                ],
-                "description": "Customize layout of any product page with simple drag and drop.",
-                "support": {
-                    "source": "https://github.com/wifi-center/Magezon_ProductPageBuilder/tree/1.0.4",
-                    "issues": "https://github.com/wifi-center/Magezon_ProductPageBuilder/issues"
-                }
-            },
-            "dev-main": {
-                "name": "magezon/module-singple-product-page-builder",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:wifi-center/Magezon_ProductPageBuilder.git",
-                    "reference": "89793bf2b377c0fecab2648d67c71923f36713c9"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_ProductPageBuilder/zipball/89793bf2b377c0fecab2648d67c71923f36713c9",
-                    "reference": "89793bf2b377c0fecab2648d67c71923f36713c9",
-                    "shasum": ""
-                },
-                "require": {
-                    "magezon/module-builder": "*",
-                    "magezon/module-core": "*",
-                    "php": "~7.3.0|~7.4.0|~8.1.0"
-                },
-                "time": "2023-03-01T10:00:38+00:00",
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "Magezon\\ProductPageBuilder\\": ""
-                    }
-                },
-                "license": [
-                    "OSL-3.0",
-                    "AFL-3.0"
-                ],
-                "description": "Customize layout of any product page with simple drag and drop.",
-                "support": {
-                    "source": "https://github.com/wifi-center/Magezon_ProductPageBuilder/tree/1.0.4",
-                    "issues": "https://github.com/wifi-center/Magezon_ProductPageBuilder/issues"
                 }
             }
         },
@@ -2254,9 +2491,9 @@
                 }
             }
         },
-        "magezon/module-tabspro": {
+        "magezon/module-tabs-pro": {
             "1.0.1": {
-                "name": "magezon/module-tabspro",
+                "name": "magezon/module-tabs-pro",
                 "version": "1.0.1",
                 "version_normalized": "1.0.1.0",
                 "source": {
@@ -2293,25 +2530,65 @@
                     "issues": "https://github.com/wifi-center/Magezon_TabsPro/issues"
                 }
             },
+            "1.0.1.1": {
+                "name": "magezon/module-tabs-pro",
+                "version": "1.0.1.1",
+                "version_normalized": "1.0.1.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_TabsPro.git",
+                    "reference": "58dbe8f805da6d2626a6ff305a09ff4445a9f41c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_TabsPro/zipball/58dbe8f805da6d2626a6ff305a09ff4445a9f41c",
+                    "reference": "58dbe8f805da6d2626a6ff305a09ff4445a9f41c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-core": "*",
+                    "php": "~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0|~8.2.0"
+                },
+                "time": "2023-07-12T08:37:27+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\TabsPro\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_TabsPro/tree/1.0.1.1",
+                    "issues": "https://github.com/wifi-center/Magezon_TabsPro/issues"
+                }
+            },
             "dev-develop": {
-                "name": "magezon/module-tabspro",
+                "name": "magezon/module-tabs-pro",
                 "version": "dev-develop",
                 "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_TabsPro.git",
-                    "reference": "b6592855511b42717749a585b477d6b70972920a"
+                    "reference": "b895fad67a8a865002a446f5f930efc97758bd54"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_TabsPro/zipball/b6592855511b42717749a585b477d6b70972920a",
-                    "reference": "b6592855511b42717749a585b477d6b70972920a",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_TabsPro/zipball/b895fad67a8a865002a446f5f930efc97758bd54",
+                    "reference": "b895fad67a8a865002a446f5f930efc97758bd54",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                    "magezon/module-core": "*",
+                    "php": "~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0|~8.2.0"
                 },
-                "time": "2023-03-01T12:56:32+00:00",
+                "time": "2023-07-12T08:37:26+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -2333,24 +2610,25 @@
                 }
             },
             "dev-main": {
-                "name": "magezon/module-tabspro",
+                "name": "magezon/module-tabs-pro",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_TabsPro.git",
-                    "reference": "cfd0095e24494cad48af70aa61eaaba172edbfaf"
+                    "reference": "58dbe8f805da6d2626a6ff305a09ff4445a9f41c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_TabsPro/zipball/cfd0095e24494cad48af70aa61eaaba172edbfaf",
-                    "reference": "cfd0095e24494cad48af70aa61eaaba172edbfaf",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_TabsPro/zipball/58dbe8f805da6d2626a6ff305a09ff4445a9f41c",
+                    "reference": "58dbe8f805da6d2626a6ff305a09ff4445a9f41c",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                    "magezon/module-core": "*",
+                    "php": "~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0|~8.2.0"
                 },
-                "time": "2023-03-01T12:56:53+00:00",
+                "time": "2023-07-12T08:37:27+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -2366,7 +2644,7 @@
                 ],
                 "description": "N/A",
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_TabsPro/tree/1.0.1",
+                    "source": "https://github.com/wifi-center/Magezon_TabsPro/tree/1.0.1.1",
                     "issues": "https://github.com/wifi-center/Magezon_TabsPro/issues"
                 }
             }

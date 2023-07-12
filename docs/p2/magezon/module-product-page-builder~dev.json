@@ -1,0 +1,87 @@
+{
+    "packages": {
+        "magezon/module-product-page-builder": [
+            {
+                "name": "magezon/module-product-page-builder",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_ProductPageBuilder.git",
+                    "reference": "de9dc75fc7bd4a318c9749b154b32d0d872e5a3e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_ProductPageBuilder/zipball/de9dc75fc7bd4a318c9749b154b32d0d872e5a3e",
+                    "reference": "de9dc75fc7bd4a318c9749b154b32d0d872e5a3e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-builder": "*",
+                    "magezon/module-core": "*",
+                    "php": "~7.3.0|~7.4.0|~8.1.0|~8.2.0"
+                },
+                "time": "2023-07-12T08:34:35+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\ProductPageBuilder\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Customize layout of any product page with simple drag and drop.",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_ProductPageBuilder/tree/develop",
+                    "issues": "https://github.com/wifi-center/Magezon_ProductPageBuilder/issues"
+                }
+            },
+            {
+                "name": "magezon/module-product-page-builder",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_ProductPageBuilder.git",
+                    "reference": "2f3f9a5d91dd117d1263dc2a4c11a4597a2a4534"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_ProductPageBuilder/zipball/2f3f9a5d91dd117d1263dc2a4c11a4597a2a4534",
+                    "reference": "2f3f9a5d91dd117d1263dc2a4c11a4597a2a4534",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-builder": "*",
+                    "magezon/module-core": "*",
+                    "php": "~7.3.0|~7.4.0|~8.1.0|~8.2.0"
+                },
+                "time": "2023-07-12T08:34:36+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\ProductPageBuilder\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Customize layout of any product page with simple drag and drop.",
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_ProductPageBuilder/tree/main",
+                    "issues": "https://github.com/wifi-center/Magezon_ProductPageBuilder/issues"
+                }
+            }
+        ]
+    }
+}

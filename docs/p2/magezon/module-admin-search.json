@@ -1,0 +1,82 @@
+{
+    "packages": {
+        "magezon/module-admin-search": [
+            {
+                "name": "magezon/module-admin-search",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_AdminSearch.git",
+                    "reference": "36e64fdb84dc9a5b45905e8d31246ccf54a897f9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdminSearch/zipball/36e64fdb84dc9a5b45905e8d31246ccf54a897f9",
+                    "reference": "36e64fdb84dc9a5b45905e8d31246ccf54a897f9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-core": "*",
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                },
+                "time": "2023-03-01T12:45:49+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\AdminSearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_AdminSearch/tree/1.0.0",
+                    "issues": "https://github.com/wifi-center/Magezon_AdminSearch/issues"
+                }
+            },
+            {
+                "name": "magezon/module-admin-search",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_AdminSearch.git",
+                    "reference": "39d6a6138071c0307dcf28f1fb6fdaeaa31733fc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_AdminSearch/zipball/39d6a6138071c0307dcf28f1fb6fdaeaa31733fc",
+                    "reference": "39d6a6138071c0307dcf28f1fb6fdaeaa31733fc",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-core": "*",
+                    "php": "~7.1.0|~7.2.0|~7.3.0||~7.4.0||~8.1.0||8.2.0"
+                },
+                "time": "2023-07-12T07:34:57+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\AdminSearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_AdminSearch/tree/1.0.1",
+                    "issues": "https://github.com/wifi-center/Magezon_AdminSearch/issues"
+                }
+            }
+        ]
+    }
+}

@@ -8,19 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_EmailAttachments.git",
-                    "reference": "303441b4df582e3cbc0cb7eb48c0cbd26609da04"
+                    "reference": "6d567511f92c72ed0737b8d302df053e19642f12"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_EmailAttachments/zipball/303441b4df582e3cbc0cb7eb48c0cbd26609da04",
-                    "reference": "303441b4df582e3cbc0cb7eb48c0cbd26609da04",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_EmailAttachments/zipball/6d567511f92c72ed0737b8d302df053e19642f12",
+                    "reference": "6d567511f92c72ed0737b8d302df053e19642f12",
                     "shasum": ""
                 },
                 "require": {
                     "magezon/module-core": "*",
-                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0|~8.2.0"
                 },
-                "time": "2023-03-01T09:21:01+00:00",
+                "time": "2023-07-12T07:50:48+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -37,7 +37,7 @@
                 ],
                 "description": "Display attachments on sales email",
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_EmailAttachments/tree/1.0.0",
+                    "source": "https://github.com/wifi-center/Magezon_EmailAttachments/tree/develop",
                     "issues": "https://github.com/wifi-center/Magezon_EmailAttachments/issues"
                 }
             },
@@ -48,19 +48,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_EmailAttachments.git",
-                    "reference": "303441b4df582e3cbc0cb7eb48c0cbd26609da04"
+                    "reference": "20f83327d064ad7cced62286002e79f22d1ac333"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_EmailAttachments/zipball/303441b4df582e3cbc0cb7eb48c0cbd26609da04",
-                    "reference": "303441b4df582e3cbc0cb7eb48c0cbd26609da04",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_EmailAttachments/zipball/20f83327d064ad7cced62286002e79f22d1ac333",
+                    "reference": "20f83327d064ad7cced62286002e79f22d1ac333",
                     "shasum": ""
                 },
                 "require": {
                     "magezon/module-core": "*",
-                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0|~8.2.0"
                 },
-                "time": "2023-03-01T09:21:01+00:00",
+                "time": "2023-07-12T07:50:48+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -76,7 +76,7 @@
                 ],
                 "description": "Display attachments on sales email",
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_EmailAttachments/tree/1.0.0",
+                    "source": "https://github.com/wifi-center/Magezon_EmailAttachments/tree/1.0.1",
                     "issues": "https://github.com/wifi-center/Magezon_EmailAttachments/issues"
                 }
             }

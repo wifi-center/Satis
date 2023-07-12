@@ -1,13 +1,13 @@
 {
     "packages": [],
     "includes": {
-        "include/all$59a104ce7b94e6bbcbdf53433b5cf7c7fc86e03a.json": {
-            "sha1": "59a104ce7b94e6bbcbdf53433b5cf7c7fc86e03a"
+        "include/all$ad56ca80d3edd3b39afe73eb3fef15118152464c.json": {
+            "sha1": "ad56ca80d3edd3b39afe73eb3fef15118152464c"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
     "available-packages": [
-        "magezon/module-adminsearch",
+        "magezon/module-admin-search",
         "magezon/module-advanced-contact",
         "magezon/module-builder",
         "magezon/module-core",
@@ -22,10 +22,10 @@
         "magezon/module-pdf",
         "magezon/module-product-attachments",
         "magezon/module-product-attachments-graphql",
+        "magezon/module-product-page-builder",
         "magezon/module-simple-builder",
-        "magezon/module-singple-product-page-builder",
         "magezon/module-singple-product-page-builder-attachments",
-        "magezon/module-tabspro",
+        "magezon/module-tabs-pro",
         "magmodules/magento2-channable",
         "solvatech/categorydescriptionbottom"
     ]

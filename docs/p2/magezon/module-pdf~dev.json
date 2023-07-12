@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_Pdf.git",
-                    "reference": "94720a3f5e6928fe0a9d1e516466036f4c0a29a5"
+                    "reference": "8fd5f0dde0bc306d3fd4a497f50d5a3d43f7e0ed"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_Pdf/zipball/94720a3f5e6928fe0a9d1e516466036f4c0a29a5",
-                    "reference": "94720a3f5e6928fe0a9d1e516466036f4c0a29a5",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_Pdf/zipball/8fd5f0dde0bc306d3fd4a497f50d5a3d43f7e0ed",
+                    "reference": "8fd5f0dde0bc306d3fd4a497f50d5a3d43f7e0ed",
                     "shasum": ""
                 },
                 "require": {
@@ -22,9 +22,9 @@
                     "magezon/module-simple-builder": "*",
                     "mpdf/mpdf": "*",
                     "mpdf/qrcode": "*",
-                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0||~8.1.0"
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0||~8.1.0||~8.2.0"
                 },
-                "time": "2023-03-01T09:50:51+00:00",
+                "time": "2023-07-12T07:54:59+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -40,7 +40,7 @@
                     "AFL-3.0"
                 ],
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_Pdf/tree/1.0.2",
+                    "source": "https://github.com/wifi-center/Magezon_Pdf/tree/develop",
                     "issues": "https://github.com/wifi-center/Magezon_Pdf/issues"
                 }
             },
@@ -51,12 +51,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_Pdf.git",
-                    "reference": "94720a3f5e6928fe0a9d1e516466036f4c0a29a5"
+                    "reference": "1f01a73f868460a231082f288b340d5d41e6ca7a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_Pdf/zipball/94720a3f5e6928fe0a9d1e516466036f4c0a29a5",
-                    "reference": "94720a3f5e6928fe0a9d1e516466036f4c0a29a5",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_Pdf/zipball/1f01a73f868460a231082f288b340d5d41e6ca7a",
+                    "reference": "1f01a73f868460a231082f288b340d5d41e6ca7a",
                     "shasum": ""
                 },
                 "require": {
@@ -65,9 +65,9 @@
                     "magezon/module-simple-builder": "*",
                     "mpdf/mpdf": "*",
                     "mpdf/qrcode": "*",
-                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0||~8.1.0"
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0||~8.1.0||~8.2.0"
                 },
-                "time": "2023-03-01T09:50:51+00:00",
+                "time": "2023-07-12T07:55:00+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -82,7 +82,7 @@
                     "AFL-3.0"
                 ],
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_Pdf/tree/1.0.2",
+                    "source": "https://github.com/wifi-center/Magezon_Pdf/tree/1.0.4",
                     "issues": "https://github.com/wifi-center/Magezon_Pdf/issues"
                 }
             }

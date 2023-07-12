@@ -42,6 +42,48 @@
                     "source": "https://github.com/wifi-center/Magezon_Pdf/tree/1.0.2",
                     "issues": "https://github.com/wifi-center/Magezon_Pdf/issues"
                 }
+            },
+            {
+                "name": "magezon/module-pdf",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:wifi-center/Magezon_Pdf.git",
+                    "reference": "1f01a73f868460a231082f288b340d5d41e6ca7a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_Pdf/zipball/1f01a73f868460a231082f288b340d5d41e6ca7a",
+                    "reference": "1f01a73f868460a231082f288b340d5d41e6ca7a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magezon/module-builder": "*",
+                    "magezon/module-core": "*",
+                    "magezon/module-simple-builder": "*",
+                    "mpdf/mpdf": "*",
+                    "mpdf/qrcode": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0||~8.1.0||~8.2.0"
+                },
+                "time": "2023-07-12T07:55:00+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magezon\\Pdf\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/wifi-center/Magezon_Pdf/tree/1.0.4",
+                    "issues": "https://github.com/wifi-center/Magezon_Pdf/issues"
+                }
             }
         ]
     }
