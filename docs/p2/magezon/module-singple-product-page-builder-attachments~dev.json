@@ -8,21 +8,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:wifi-center/Magezon_ProductPageBuilderAttachments.git",
-                    "reference": "5da027ae6b806695f348e7c18d96c355e3e79528"
+                    "reference": "987689b979a3edcd216b4e626e8cb1a1b7340719"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/wifi-center/Magezon_ProductPageBuilderAttachments/zipball/5da027ae6b806695f348e7c18d96c355e3e79528",
-                    "reference": "5da027ae6b806695f348e7c18d96c355e3e79528",
+                    "url": "https://api.github.com/repos/wifi-center/Magezon_ProductPageBuilderAttachments/zipball/987689b979a3edcd216b4e626e8cb1a1b7340719",
+                    "reference": "987689b979a3edcd216b4e626e8cb1a1b7340719",
                     "shasum": ""
                 },
                 "require": {
                     "magezon/module-builder": "*",
                     "magezon/module-core": "*",
-                    "magezon/module-singple-product-page-builder": "*",
+                    "magezon/module-product-page-builder": "*",
                     "php": "~7.3.0|~7.4.0|~8.1.0"
                 },
-                "time": "2023-03-01T11:59:15+00:00",
+                "time": "2023-07-12T09:12:38+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -39,7 +39,7 @@
                 ],
                 "description": "Customize layout of any product page with simple drag and drop.",
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_ProductPageBuilderAttachments/tree/1.0.4",
+                    "source": "https://github.com/wifi-center/Magezon_ProductPageBuilderAttachments/tree/develop",
                     "issues": "https://github.com/wifi-center/Magezon_ProductPageBuilderAttachments/issues"
                 }
             },
@@ -80,7 +80,7 @@
                 ],
                 "description": "Customize layout of any product page with simple drag and drop.",
                 "support": {
-                    "source": "https://github.com/wifi-center/Magezon_ProductPageBuilderAttachments/tree/1.0.4",
+                    "source": "https://github.com/wifi-center/Magezon_ProductPageBuilderAttachments/tree/main",
                     "issues": "https://github.com/wifi-center/Magezon_ProductPageBuilderAttachments/issues"
                 }
             }
